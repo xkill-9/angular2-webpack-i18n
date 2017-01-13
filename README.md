@@ -20,6 +20,8 @@ yarn build
 yarn test # Run tests with karma.
 ```
 
+## Extra
+
 ### Image paths
 I added a path preset in both the html and sass loaders in the webpack configuration so that all the template and style files use the same absolute path no matter where they may be located inside the application structure.
 
