@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="en" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="2c2277a2a6c3da384ce1c32f34a2ee379de5c100" datatype="html">
+        <source>
+  Bienvenido a Angular 2 Webpack.
+</source>
+        <target/>
+        <note priority="1" from="description"> Un mensaje de bienvenida a la aplicación</note>
+        <note priority="1" from="meaning">Bienvenida </note>
+      </trans-unit>
+      <trans-unit id="fe13cdca1ac7742b4c7f33f7e6bea0e186feccab" datatype="html">
+        <source>Logo de Angular</source>
+        <target/>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
